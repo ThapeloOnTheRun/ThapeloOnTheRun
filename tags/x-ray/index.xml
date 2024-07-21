@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X-Ray on ThapeloOnTheRun</title>
+    <link>https://example.com/tags/x-ray/</link>
+    <description>Recent content in X-Ray on ThapeloOnTheRun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/x-ray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thapelo is Injured</title>
+      <link>https://example.com/blogs/stressfracture/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogs/stressfracture/</guid>
+      <description>Thapelo got INJURED&#xA;Official diagnosis - Stress Fracture (Right Fibula)&#xA;A few runs post my Half-marathon PB, I started feeling a slight pain in my lower leg. The pain was not there when I walked and ran, I could only feel it when I pressed hard around the injured area. I figured that it was just a niggle that will go away.&#xA;I proceeded to run another half-marathon on the 1st of May 2024 (Official time - 1:50:15).</description>
+    </item>
+  </channel>
+</rss>

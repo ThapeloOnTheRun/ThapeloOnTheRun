@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BNAC on ThapeloOnTheRun</title>
+    <link>https://example.com/tags/bnac/</link>
+    <description>Recent content in BNAC on ThapeloOnTheRun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/bnac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Half-marathon PB - BNAC</title>
+      <link>https://example.com/blogs/half-marathonpb/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogs/half-marathonpb/</guid>
+      <description>Preparation for this race followed a 10 km race (Urithi legacy) I had just done on the 4th of February 2024. I did the race with a finish time of 50:15 (Horrible race). The half marathon was scheduled for the 21st of April 2024. I had about 11 weeks to prepare.&#xA;Training For this training block, I ran an average of 5 days a week. The training block was disrupted a few times because of my international travels and family commitments but such is life.</description>
+    </item>
+  </channel>
+</rss>

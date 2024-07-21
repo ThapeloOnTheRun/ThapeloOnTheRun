@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PB on ThapeloOnTheRun</title>
+    <link>https://example.com/tags/pb/</link>
+    <description>Recent content in PB on ThapeloOnTheRun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/pb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Half-marathon PB - BNAC</title>
+      <link>https://example.com/blogs/half-marathonpb/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogs/half-marathonpb/</guid>
+      <description>Preparation for this race followed a 10 km race (Urithi legacy) I had just done on the 4th of February 2024. I did the race with a finish time of 50:15 (Horrible race). The half marathon was scheduled for the 21st of April 2024. I had about 11 weeks to prepare.&#xA;Training For this training block, I ran an average of 5 days a week. The training block was disrupted a few times because of my international travels and family commitments but such is life.</description>
+    </item>
+    <item>
+      <title>10 k PB - Growthpoint Sundowner 10km</title>
+      <link>https://example.com/blogs/10kpb/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogs/10kpb/</guid>
+      <description>After months of inconsistent running and injuries, I discovered the phrases &amp;ldquo;BASE BUILDING&amp;rdquo; and &amp;ldquo;STRENGTH TRAINING&amp;rdquo;. In the preceding few months, I had suffered from shin splints and soleus muscle injuries after I had discovered &amp;ldquo;SANCTIONED RACES&amp;rdquo;. I fell into the trap of overdoing pretty much everything (i.e. &amp;ldquo;training&amp;rdquo; and racing). By training I mean some random running, once every other day. Basically, go out and run as fast as you possibly can all the time.</description>
+    </item>
+  </channel>
+</rss>
