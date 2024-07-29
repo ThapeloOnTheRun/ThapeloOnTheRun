@@ -11,38 +11,4 @@ description: ""
 toc: 
 ---
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-
-## Rehabilitation and Mobility
-```
-{{</* gist spf13 7896402 "img.html" */>}}
-```
-<br>
-{{< gist spf13 7896402 "img.html" >}}
-<br>
-
-
-
-
-
-## Getting back to running
-```
-{{</* vimeo 146022717 */>}}
-```
-<br>
-{{< vimeo 146022717 >}}
-<br>
-
-
-
-## Base building
-```
-{{</* youtube w7Ft2ymGmfc */>}}
-```
-<br>
-{{< youtube w7Ft2ymGmfc >}}
-<br>
-
-## Training for a race
-
-These shortcodes are not Hugo built-ins, but are provided by the theme.
+**Stay TUNED**
