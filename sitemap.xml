@@ -5,6 +5,21 @@
     <loc>https://example.com/blogs/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/getting-back/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blogs/getting-back-28-07-2024/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/injury-testing/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/recovery/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +27,6 @@
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/running-injury/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blogs/stressfracture/</loc>
