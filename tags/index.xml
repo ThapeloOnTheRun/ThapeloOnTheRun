@@ -9,10 +9,31 @@
     <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Base Building</title>
+      <link>https://example.com/tags/base-building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/base-building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building Back</title>
+      <link>https://example.com/tags/building-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/building-back/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Getting Back</title>
       <link>https://example.com/tags/getting-back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/tags/getting-back/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Good Foundation</title>
+      <link>https://example.com/tags/good-foundation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/good-foundation/</guid>
       <description></description>
     </item>
     <item>
