@@ -6,13 +6,27 @@
     <description>Recent content in Tags on ThapeloOnTheRun</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Base Building</title>
-      <link>https://example.com/tags/base-building/</link>
+      <title>Confidence</title>
+      <link>https://example.com/tags/confidence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/base-building/</guid>
+      <guid>https://example.com/tags/confidence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>https://example.com/tags/fitness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Long Run</title>
+      <link>https://example.com/tags/long-run/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/long-run/</guid>
       <description></description>
     </item>
     <item>
@@ -23,10 +37,24 @@
       <description></description>
     </item>
     <item>
-      <title>Getting Back</title>
-      <link>https://example.com/tags/getting-back/</link>
+      <title>Follwoing a Structure</title>
+      <link>https://example.com/tags/follwoing-a-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/getting-back/</guid>
+      <guid>https://example.com/tags/follwoing-a-structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning Races</title>
+      <link>https://example.com/tags/planning-races/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/planning-races/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Base Building</title>
+      <link>https://example.com/tags/base-building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/base-building/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +62,13 @@
       <link>https://example.com/tags/good-foundation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/tags/good-foundation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Getting Back</title>
+      <link>https://example.com/tags/getting-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/getting-back/</guid>
       <description></description>
     </item>
     <item>

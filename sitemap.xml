@@ -2,17 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/base-building/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/blogs/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/confidence/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/fitness/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/long-run/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blogs/confidence-boost-24-11-2024/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/building-back/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/follwoing-a-structure/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/planning-races/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blogs/continuing-the-build-22-09-2024/</loc>
+    <lastmod>2024-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/base-building/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blogs/base-building-11-08-2024/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/good-foundation/</loc>
+    <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/getting-back/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
@@ -20,19 +50,10 @@
     <loc>https://example.com/blogs/getting-back-04-08-2024/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/good-foundation/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/injury/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/recovery-of-injury/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blogs/getting-back-28-07-2024/</loc>
@@ -69,6 +90,9 @@
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blogs/10kpb/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blogs/training-philosophy/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/10k-road-race/</loc>

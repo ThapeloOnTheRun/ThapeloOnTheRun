@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitness on ThapeloOnTheRun</title>
+    <link>https://example.com/tags/fitness/</link>
+    <description>Recent content in Fitness on ThapeloOnTheRun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regaining confidence</title>
+      <link>https://example.com/blogs/confidence-boost-24-11-2024/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogs/confidence-boost-24-11-2024/</guid>
+      <description>As the training progressed, I ticked off a few confidence-boosting long runs. I can attribute the success of these long runs to two aspects of training.&#xA;Improving fitness Nutrition (Before and during long runs) Improving fitness A few weeks of building up led to the longest run of 12 km in late September with an average running week volume of 32 km in the same month. Now, it was time to push up some mileage.</description>
+    </item>
+  </channel>
+</rss>
